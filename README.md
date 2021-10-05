@@ -6,7 +6,7 @@ stock_market
 Dhruvang Jayswal, Dhyey Patel, Meet Shah
 
 # Database description
-We are interested in designing a database system to find the best stock in S&P 500. 
+We are interested in designing a database system to find the best stock available in S&P 500. 
 
 A collection of 500 stocks in the S&P500 to choose the best stock in the industry, for each stock has its own unique Tickle symbol, price, and 52 week’s highs and lows to store these data we need MySQL server to import data into the database server. 
 
