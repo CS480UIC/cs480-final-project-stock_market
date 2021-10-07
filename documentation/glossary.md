@@ -1,6 +1,6 @@
 
 # Entity:
-Time<br/>  
+Time\ 
 News 
 Earning
 Trend
