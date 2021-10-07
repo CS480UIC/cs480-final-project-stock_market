@@ -1,27 +1,27 @@
 
 # Entity:
 Time<br/> 
-News 
-Earning
-Trend
-Date
-Highest
-Lowest
-Open Price
-Curent Price
-Price 
-Number
-Date
-Name
-ID
-Password
-ROI
-PE
-Net Income
-Balance Sheet
-EPS
-Dividend
-Profit
+News<br/>  
+Earning<br/> 
+Trend<br/> 
+Date<br/> 
+Highest<br/> 
+Lowest<br/> 
+Open Price<br/> 
+Curent Price<br/> 
+Price<br/>  
+Number<br/> 
+Date<br/> 
+Name<br/> 
+ID<br/> 
+Password<br/> 
+ROI<br/> 
+PE<br/> 
+Net Income<br/> 
+Balance Sheet<br/> 
+EPS<br/> 
+Dividend<br/> 
+Profit<br/> 
 
 # Relationship:
 
