@@ -1,8 +1,6 @@
 
 # Entity:
-Time
-News
-Earning
+Time  News  Earning
 Trend
 Date
 Highest
