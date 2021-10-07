@@ -1,7 +1,7 @@
 
 # Entity:
 Time<br/> 
-News<br/>  
+News<br/>
 Earning<br/> 
 Trend<br/> 
 Date<br/> 
@@ -9,7 +9,7 @@ Highest<br/>
 Lowest<br/> 
 Open Price<br/> 
 Curent Price<br/> 
-Price<br/>  
+Price<br/>
 Number<br/> 
 Date<br/> 
 Name<br/> 
