@@ -1,5 +1,5 @@
 
-#Entity:
+# Entity:
 Time
 News
 Earning
@@ -23,7 +23,7 @@ EPS
 Dividend
 Profit
 
-#Relationship:
+# Relationship:
 
 
-#Attribute:
+# Attribute:
