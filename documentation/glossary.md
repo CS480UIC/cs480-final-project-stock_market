@@ -26,7 +26,9 @@ Synonyms: sign-in, credentials
 Description: Login is the username and password for any user that lets them in their account to then carry out transactions.
 
 # Relationship:
-  
+trade M(M)
+has M(M)
+contains 
 
 # Attribute:
 time 1(1)      
