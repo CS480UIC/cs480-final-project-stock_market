@@ -28,7 +28,7 @@ Description: Login is the username and password for any user that lets them in t
 # Relationship:
 trade M(M)    
 has M(M)   
-contains    
+contains M(M)   
 
 # Attribute:
 time 1(1)      
