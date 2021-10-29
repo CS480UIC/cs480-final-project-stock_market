@@ -22,7 +22,7 @@
   </head>
   
   <body>
-    <h1>CRUD operations for Entity1 </h1>
+    <h1>CRUD operations for Current Stock Info </h1>
     <br>
 	<a href="<c:url value='/jsps/CurrentStockInfo/currstock_create.jsp'/>" target="_parent">Create Current Stock Info</a> |&nbsp; 
 	<a href="<c:url value='/jsps/CurrentStockInfo/currstock_read.jsp'/>" target="_parent">Read Current Stock Info</a> |&nbsp;
