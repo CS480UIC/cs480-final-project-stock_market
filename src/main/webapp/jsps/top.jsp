@@ -46,6 +46,8 @@
 			<a href="<c:url value='/UserServletLogout'/>" target="_parent">Logout</a> |&nbsp; 
 			<a href="<c:url value='/jsps/Account/menu.jsp'/>" target="body">Account</a> |&nbsp;&nbsp;
 			<a href="<c:url value='/jsps/Location/menu.jsp'/>" target="body">Location</a> |&nbsp;&nbsp;
+			<a href="<c:url value='/jsps/Brokerage/menu.jsp'/>" target="body">Brokerage</a> |&nbsp;&nbsp;
+			<a href="<c:url value='/jsps/CurrentStockInfo/menu.jsp'/>" target="body">Current Stock Info</a> |&nbsp;&nbsp;
 
 		</c:otherwise>
 	</c:choose>

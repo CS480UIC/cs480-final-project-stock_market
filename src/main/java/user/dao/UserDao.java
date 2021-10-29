@@ -26,7 +26,7 @@ public class UserDao {
 	/**
 	 * password of your username to connect to the database
 	 */
-	private String MySQL_password = "Stock_market123";  //TODO actual: Stock_market123
+	private String MySQL_password = "Stock123";  //TODO actual: Stock_market123
 	
 	/**
 	 * get the Search result with Username 
