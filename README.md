@@ -14,4 +14,5 @@ Once we find the stock using the database, we need to check the bunch of if-else
 
 The Originally of this database is to find the industry’s best stocks in S&P500. In day-to-day life, traders are spending a reasonable amount of time and do analysis to find the stocks but using this application (Project) they need to run some queries and check the conditions in Eclipse to find the best stock. 
 
-
+# Screenshots CRUD:
+# CRUD - Account
