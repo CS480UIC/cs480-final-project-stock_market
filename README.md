@@ -16,3 +16,26 @@ The Originally of this database is to find the industry’s best stocks in S&P50
 
 # Screenshots CRUD:
 # CRUD - Account
+![acc1](https://user-images.githubusercontent.com/55156588/139372520-ab2e4fc3-d0bb-44f8-9e81-f867482650d8.png)
+![acc2](https://user-images.githubusercontent.com/55156588/139372535-c813465b-442f-4b7e-94b0-ac02c39f87bb.png)
+![acc3](https://user-images.githubusercontent.com/55156588/139372538-60271a11-d86e-4c4a-8ad8-9e977437cfa1.png)
+![acc4](https://user-images.githubusercontent.com/55156588/139372539-78029161-750c-4a52-bb46-9ce285028dc8.png)
+![acc5](https://user-images.githubusercontent.com/55156588/139372540-73309a05-df3f-4436-bec6-05ffe668738a.png)
+# CRUD - Location
+![loc1](https://user-images.githubusercontent.com/55156588/139372568-93f5e07d-c14c-4774-b44d-70793bca6475.png)
+![loc2](https://user-images.githubusercontent.com/55156588/139372569-28201079-0b0b-4fe1-8843-afe4d5edf59f.png)
+![loc3](https://user-images.githubusercontent.com/55156588/139372570-f4c95229-1cfd-4348-a819-e3d3abeaeb08.png)
+![loc4](https://user-images.githubusercontent.com/55156588/139372571-d17c8549-7268-4143-8afe-381c9ec88e3b.png)
+![loc5](https://user-images.githubusercontent.com/55156588/139372572-baf4f4e5-de51-4cca-9570-792c0a67451a.png)
+# CRUD - Brokerage
+![b1](https://user-images.githubusercontent.com/55156588/139372597-54047e63-2125-4e12-9bf4-e7831f764a7e.png)
+![b2](https://user-images.githubusercontent.com/55156588/139372598-ee2c4cc2-e033-43cd-a7aa-a864b64980b0.png)
+![b3](https://user-images.githubusercontent.com/55156588/139372599-b4f1c8d6-b877-4328-9cd7-2ec0dfae6700.png)
+![b4](https://user-images.githubusercontent.com/55156588/139372600-b2afa1da-c135-44ce-941a-72411019ed12.png)
+![b5](https://user-images.githubusercontent.com/55156588/139372601-4fbb1cce-4941-40fd-a239-8afc2bb6b7b3.png)
+# CRUD - Current Stock Inf![c1](https://user-images.githubusercontent.com/55156588/139372627-22c8b202-5c80-4626-b136-a263fd2becb1.png)
+![c2](https://user-images.githubusercontent.com/55156588/139372629-eaa249f7-b654-4ab3-b69c-312b9d416ecc.png)
+![c3](https://user-images.githubusercontent.com/55156588/139372630-1c410218-aee9-4e53-a050-171f89b9bfda.png)
+![c4](https://user-images.githubusercontent.com/55156588/139372632-881f8067-20d6-4d91-8b36-144737349512.png)
+![c5](https://user-images.githubusercontent.com/55156588/139372633-1ded7a46-eacf-43c7-affb-d91e469b096c.png)
+o
