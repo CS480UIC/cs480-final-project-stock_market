@@ -26,7 +26,7 @@
 	TechKey    :<input type="text" name="username" value="${form.username }"/>
 	<span style="color: red; font-weight: 900">${errors.username }</span>
 	<br/>
-	Earning：<input type="password" name="password" value="${form.password }"/>
+	Earning  ：<input type="password" name="password" value="${form.password }"/>
 	<span style="color: red; font-weight: 900">${errors.password }</span>
 	<br/>
 	News	：<input type="text" name="email" value="${form.email }"/>
