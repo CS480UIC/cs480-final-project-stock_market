@@ -22,12 +22,12 @@
   </head>
   
   <body>
-    <h1>CRUD operations for Entity1 </h1>
+    <h1>CRUD operations for Fundamental Analysis </h1>
     <br>
-	<a href="<c:url value='/jsps/entity1/entity1create.jsp'/>" target="_parent">Create Entity1</a> |&nbsp; 
-	<a href="<c:url value='/jsps/entity1/entity1read.jsp'/>" target="_parent">Read Entity1</a> |&nbsp;
-	<a href="<c:url value='/jsps/entity1/entity1update.jsp'/>" target="_parent">Update Entity1</a> |&nbsp;	 
-	<a href="<c:url value='/jsps/entity1/entity1delete.jsp'/>" target="_parent">Delete Entity1</a>	
+	<a href="<c:url value='/jsps/fundamental_analysis/fundamental_analysiscreate.jsp'/>" target="_parent">Create Fundamental Analysis</a> |&nbsp; 
+	<a href="<c:url value='/jsps/fundamental_analysis/fundamental_analysisread.jsp'/>" target="_parent">Read Fundamental Analysis</a> |&nbsp;
+	<a href="<c:url value='/jsps/fundamental_analysis/fundamental_analysisupdate.jsp'/>" target="_parent">Update Fundamental Analysis</a> |&nbsp;	 
+	<a href="<c:url value='/jsps/fundamental_analysis/fundamental_analysisdelete.jsp'/>" target="_parent">Delete Fundamental Analysis</a>	
 	    
   </body>
 </html>

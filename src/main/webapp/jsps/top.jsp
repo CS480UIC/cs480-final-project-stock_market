@@ -48,7 +48,9 @@
 			<a href="<c:url value='/jsps/Location/menu.jsp'/>" target="body">Location</a> |&nbsp;&nbsp;
 			<a href="<c:url value='/jsps/Brokerage/menu.jsp'/>" target="body">Brokerage</a> |&nbsp;&nbsp;
 			<a href="<c:url value='/jsps/CurrentStockInfo/menu.jsp'/>" target="body">Current Stock Info</a> |&nbsp;&nbsp;
-
+			<a href="<c:url value='/jsps/fundamental_analysis/menu.jsp'/>" target="body">Fundamenal_analysis</a> |&nbsp;&nbsp;
+		    <a href="<c:url value='/jsps/technical_analysis/menu.jsp'/>" target="body">Technical Analysis</a> |&nbsp;&nbsp;
+			
 		</c:otherwise>
 	</c:choose>
 
