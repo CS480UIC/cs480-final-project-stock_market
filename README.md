@@ -38,4 +38,16 @@ The Originally of this database is to find the industry’s best stocks in S&P50
 ![c3](https://user-images.githubusercontent.com/55156588/139372630-1c410218-aee9-4e53-a050-171f89b9bfda.png)
 ![c4](https://user-images.githubusercontent.com/55156588/139372632-881f8067-20d6-4d91-8b36-144737349512.png)
 ![c5](https://user-images.githubusercontent.com/55156588/139372633-1ded7a46-eacf-43c7-affb-d91e469b096c.png)
+# CRUD - Fundamental Analysis
+![Screen Shot 2021-11-04 at 4 44 13 PM](https://user-images.githubusercontent.com/77177208/140424897-e8becd8c-2721-41c8-b83b-82e78a6d0edf.png)
+![Screen Shot 2021-11-04 at 4 44 04 PM](https://user-images.githubusercontent.com/77177208/140424899-224eb551-f156-4187-a119-d589cd696f2d.png)
+![Screen Shot 2021-11-04 at 4 43 54 PM](https://user-images.githubusercontent.com/77177208/140424900-5cb8e887-1313-49f0-83bb-78e623778a44.png)
+![Screen Shot 2021-11-04 at 4 43 45 PM](https://user-images.githubusercontent.com/77177208/140424901-8d7b6f01-060a-42af-a91d-92cda0a68139.png)
+![Screen Shot 2021-11-04 at 4 43 29 PM](https://user-images.githubusercontent.com/77177208/140424902-f79d0aac-a3fa-4123-85bf-2aa950e4d6c6.png)
+# CRUD - Technical Analysis
+![Screen Shot 2021-11-04 at 4 45 00 PM](https://user-images.githubusercontent.com/77177208/140424990-f158e829-c64d-4d22-a5e3-cfb4003be99d.png)
+![Screen Shot 2021-11-04 at 4 44 48 PM](https://user-images.githubusercontent.com/77177208/140424994-b1c7d380-3155-4f3c-868e-b3e849b77cf4.png)
+![Screen Shot 2021-11-04 at 4 44 40 PM](https://user-images.githubusercontent.com/77177208/140424996-06acdcf0-1348-4f86-b42a-55c2395520a5.png)
+![Screen Shot 2021-11-04 at 4 44 32 PM](https://user-images.githubusercontent.com/77177208/140424998-f4d9d9c3-abbf-4f1a-b166-63ab315863a4.png)
+![Screen Shot 2021-11-04 at 4 44 24 PM](https://user-images.githubusercontent.com/77177208/140425001-1a843ba9-4727-4ecc-8bb5-37d60e3315cc.png)
 o
