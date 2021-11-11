@@ -1,0 +1,8 @@
+,,,,
+,cuurent_stock_info,,,
+CurrKey,open_price,name_stock,todaydate,stock_tickle
+1,120,Apple,10/18,APPL
+2,234,Roku,10/18,ROKU
+3,220,Nvidia,10/18,NVDA
+4,3300,Amazon,10/18,AMZN
+5,330,Facebook,10/18,FB

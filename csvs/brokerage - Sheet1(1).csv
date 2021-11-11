@@ -1,0 +1,8 @@
+,,,,
+,brokerage,,,
+BrokerageKey,brokerage_name,charges,trade_id,AccountKey
+41,Robinhood,0.2,123456789,31
+42,TD ,0.3,935626749,32
+43,Webull,1,463729845,33
+44,Stash,0.5,357887651,31
+45,Thinkorswim,0.1,134426789,35
